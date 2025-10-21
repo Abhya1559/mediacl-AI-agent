@@ -88,8 +88,8 @@ temp/
 *.pid
 yaml
 site-packages
-jupyter
 share
+.venv
 
 # ------------------------------
 # Compiled or binary files
