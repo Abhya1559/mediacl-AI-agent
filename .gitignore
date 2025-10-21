@@ -1,0 +1,132 @@
+# ------------------------------
+# OS / Editor junk
+# ------------------------------
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.log
+.idea/
+.vscode/
+*.code-workspace
+
+# ------------------------------
+# Node.js
+# ------------------------------
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-store/
+dist/
+build/
+.next/
+out/
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+
+# ------------------------------
+# TypeScript
+# ------------------------------
+*.tsbuildinfo
+
+# ------------------------------
+# Python (if using AI scripts)
+# ------------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+.eggs/
+*.sqlite3
+venv/
+env/
+.envrc
+.mypy_cache/
+.pytest_cache/
+.ipynb_checkpoints/
+*.ipynb_convert/
+*.ipynb_convert.json
+
+# ------------------------------
+# AI / Model files
+# ------------------------------
+*.pt
+*.pth
+*.h5
+*.ckpt
+*.onnx
+*.joblib
+*.pickle
+*.pkl
+*.weights
+models/
+checkpoints/
+runs/
+wandb/
+mlruns/
+outputs/
+data/
+datasets/
+.cache/
+tmp/
+
+# ------------------------------
+# Logs & temp files
+# ------------------------------
+logs/
+*.log
+*.out
+*.err
+tmp/
+temp/
+*.pid
+
+# ------------------------------
+# Compiled or binary files
+# ------------------------------
+*.exe
+*.dll
+*.so
+*.dylib
+*.bin
+*.o
+*.obj
+*.class
+
+# ------------------------------
+# Testing / Coverage
+# ------------------------------
+coverage/
+.nyc_output/
+.jest/
+.pytest_cache/
+htmlcov/
+
+# ------------------------------
+# Other config
+# ------------------------------
+.drizzle/
+.prisma/
+*.db
+*.sqlite
+
+# ------------------------------
+# Local secrets
+# ------------------------------
+secret.json
+api_keys.json
+openai_api_key.txt
+huggingface_token.txt
+
+# ------------------------------
+# Miscellaneous
+# ------------------------------
+*.bak
+*.tmp
+*.orig
