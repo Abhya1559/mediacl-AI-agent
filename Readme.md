@@ -7,17 +7,17 @@
 Clone the repository
 
 ```bash
-git clonehttps://github.com/entbappy/Build-a-Complete-Medical-Chatbot-with-LLMs-LangChain-Pinecone-Flask-AWS.git
+https://github.com/Abhya1559/mediacl-AI-agent/
 ```
 
-### STEP 01- Create a conda environment after opening the repository
+### STEP 01- Create a virtual environment after opening the repository
 
 ```bash
-conda create -n medibot python=3.10 -y
+ create venv medibot
 ```
 
 ```bash
-conda activate medibot
+venv activate medibot
 ```
 
 ### STEP 02- install the requirements
